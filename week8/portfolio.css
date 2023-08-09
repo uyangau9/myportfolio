@@ -1,0 +1,183 @@
+body {
+  background-color: white;
+  margin: 0%;
+}
+#upperside {
+  padding-left: 35px;
+  margin-right: 36px;
+}
+#MyPortfolio {
+  display: flex;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+#rightgroup {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+}
+#Aboutme {
+  margin-right: 30px;
+}
+#GetStarted {
+  margin-right: 30px;
+}
+#Contact {
+  border: 2px solid #d9d9d9;
+  border-radius: 15%;
+  background-color: #d9d9d9;
+}
+#FindYourLocation {
+  color: grey;
+  margin-left: 30px;
+}
+h1 {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  width: 600px;
+  margin-left: 30px;
+  font-style: italic;
+}
+#LongText {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+  color: grey;
+}
+#img1 {
+  height: 100%;
+  width: 100%;
+  border-radius: 3%;
+}
+#text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  gap: 2px;
+  margin-top: 25px;
+
+  padding-left: 100px;
+  padding-right: 100px;
+}
+#Uppertext {
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+#lowertext {
+  padding-top: 1px;
+  height: 20px;
+  margin: 0px;
+  color: grey;
+}
+#reviewbox {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35px;
+}
+#whatusersay {
+  color: #d9d9d9;
+  margin-left: 20px;
+  padding-top: 20px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-style: oblique;
+  margin-left: 30px;
+}
+
+#review {
+  font-size: 25px;
+  color: white;
+  margin-left: 20px;
+  width: 600px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 30px;
+}
+#reviewname {
+  color: #d9d9d9;
+  margin-left: 20px;
+  margin-top: 10px;
+  padding-bottom: 20px;
+  font-size: 14px;
+  font-style: oblique;
+  margin-left: 30px;
+}
+#img2 {
+  border-radius: 50%;
+  margin-right: 150px;
+  margin-top: 40px;
+}
+#services {
+  margin-top: 35px;
+  margin-left: 30px;
+  font-style: oblique;
+  color: grey;
+}
+#people {
+  color: white;
+  background-color: black;
+  border-radius: 15%;
+}
+#bookgrp {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+}
+footer {
+  background-color: #d9d9d9;
+}
+#Book {
+  margin-left: 15px;
+}
+#calendarsvg {
+  margin-left: 15px;
+}
+#pictures {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: 30px;
+  column-gap: 40px;
+
+  border-radius: 15%;
+}
+#button {
+  display: flex;
+  justify-content: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 30px;
+}
+footer {
+  margin-top: 30px;
+  font-family: "Courier New", Courier, monospace;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+}
+#name {
+  font-size: 25px;
+}
+
+#uyangapic {
+  border-radius: 50%;
+  padding-right: 70px;
+}
+#iconandpic {
+  display: flex;
+  justify-content: space-between;
+}
+#icons{
+padding-right: 0%;
+display: flex;
+justify-content: center;
+column-gap: 30px ;
+}
+#footertext{
+padding-left:  40px;
+}
